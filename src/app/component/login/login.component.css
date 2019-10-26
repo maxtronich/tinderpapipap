@@ -1,0 +1,24 @@
+
+
+#loginButton{
+  background-color: #78FADA;
+  font-family: 'Arial rounded mt bold';
+  font-size: 6vw;
+  color: #000000;
+  width: 100%;
+}
+
+#label{
+  font-family: 'Arial rounded mt bold';
+  font-size: 6vw;
+}
+
+#input{
+  font-family: 'Arial rounded mt bold';
+  font-size: 6vw;
+}
+
+#register{
+  font-family: 'Arial rounded mt bold';
+  font-size: 5vw;
+}
